@@ -37,4 +37,5 @@ This Privacy Policy is effective as of [[Date]] and will remain in effect except
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send an email to hkyatnjum@gmail.com.
+For any questions or concerns regarding the privacy policy, please send an email to mohamedabdullah9092@gmail.com
+.
