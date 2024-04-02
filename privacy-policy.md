@@ -1,41 +1,34 @@
-# Privacy Policy
+سياسة الخصوصية لتطبيق حكايات نجوم
+في عصر تتسارع فيه وتيرة التطور التكنولوجي، وتصبح البيانات أكثر قيمة وأهمية، يبرز دور سياسات الخصوصية كحجر زاوية في حماية خصوصية الأفراد وأمانهم الرقمي. تطبيق "حكايات نجوم"، يلتزم بمعايير عالية من الشفافية والأمان في جمع واستخدام بيانات المستخدمين. هذه السياسة توضح كيف نجمع، نستخدم، ونحمي المعلومات الشخصية التي تُقدم لنا عبر الموقع الإلكتروني لمدونة الاسرة العربية وهو: [suprfamily.com](https://www.suprfamily.com/) وتطبيق "حكايات نجوم" لأجهزة الأندرويد.
+سياسة الخصوصية هذه تنطبق على تطبيق حكايات نجوم وجميع المنتجات والخدمات التي تقدمها سلسلة مدونة الاسرة العربية.
 
-Star Stories App takes your privacy seriously. To better protect your privacy [["we" or "I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+ تحديد المعلومات الشخصية
+يمكن لـ"حكايات نجوم" جمع المعلومات الشخصية للمستخدمين بطرق متنوعة، بما في ذلك عبر التسجيل في التطبيق أو زيارة الموقع الإلكتروني المرتبط. قد تشمل هذه المعلومات الأسماء، عناوين البريد الإلكتروني، وأي بيانات أخرى قد تساهم في تحسين تجربة المستخدم وتخصيص الخدمة المقدمة. يُمكن للمستخدمين اختيار البقاء مجهولين ورفض تقديم معلوماتهم الشخصية.
+ جمع المعلومات غير الشخصية
+قد نجمع أيضًا معلومات غير شخصية تتعلق بكيفية تفاعل المستخدمين مع التطبيق أو الموقع، مثل نوع الجهاز ونظام التشغيل، لتوفير تجربة مستخدم أفضل ومحتوى أكثر تخصيصًا.
 
+ كيفية استخدام المعلومات
+الهدف من جمع المعلومات هو تحسين جودة الخدمة وتخصيص التجربة، من خلال:
+- تحسين خدمة العملاء: تمكيننا من الرد بكفاءة أكبر على استفساراتكم وطلباتكم.
+- تخصيص التجربة:استخدام المعلومات لفهم احتياجات وتفضيلات المستخدمين.
+- تحسين التطبيق:الاستفادة من ملاحظاتكم لتعزيز عروضنا وخدماتنا.
+مع الالتزام بعدم مشاركة هذه المعلومات مع أطراف خارجية إلا للضرورة القصوى ولتقديم خدمة أفضل.
 
-## Collection of Routine Information
+ التواصل مع المستخدمين
+قد نرسل للمستخدمين الذين اختاروا تلقي التحديثات رسائل تواصل تتضمن معلومات قيمة أو أخباراً تتعلق بالتطبيق، مع توفير خيار إلغاء الاشتراك في أي وقت او عن طريق التواصل معنا على البريد التالي: hkyatnjum@gmail.com
 
-Star Stories App track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["browser" or "app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this Star Stories App. The information is tracked for routine administration and maintenance purposes.
+ حماية معلوماتك
+نتبع أساليب تقنية متقدمة لضمان سلامة المعلومات الشخصية من الوصول غير المصرح به، حيث تُشفر كل البيانات الحساسة لتوفير أعلى مستويات الحماية.
 
+ تقاسم المعلومات الشخصية
+لا نبيع أو نؤجر المعلومات الشخصية للمستخدمين. قد نشارك المعلومات الديموغرافية مع شركائنا التجاريين أو المعلنين بطريقة لا ترتبط بأي معلومات شخصية محددة.
 
-## Cookies
+ تغييرات على سياسة الخصوصية
+يحق لنا تحديث هذه السياسة في أي وقت. عند حدوث ذلك، سيتم تحديث تاريخ "آخر تعديل" أسفل الصفحة. ننصح بمراجعة هذه السياسة بشكل دوري للبقاء على اطلاع بأي تغييرات.
 
-Where necessary, this Star Stories App uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
+ قبول الشروط
+باستخدام التطبيق أو الموقع، توافق على هذه السياسة. إذا لم توافق، يُرجى عدم استخدام خدماتنا. استمرار استخدامك يعني قبولك لأي تغييرات محتملة.
 
-
-## Advertisement and Other Third Parties
-
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this Star Stories App in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This Star Stories App has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
-
-
-## Links to Third Party Websites
-
-[["We" or "I"]] have included links on this Star Stories App for your use and reference. [["We" or "I"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["our" or "my"]] own.
-
-
-## Security
-
-The security of your personal information is important to [["us" or "me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["we" or "I"]] strive to use commercially acceptable means to protect your personal information, [["we" or "I"]] cannot guarantee its absolute security.
-
-
-## Changes To This Privacy Policy
-
-This Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-[["We" or "I"]] reserve the right to update or change [["our" or "my"]] Privacy Policy at any time and you should check this Privacy Policy periodically. If [["we" or "I"]] make any material changes to this Privacy Policy, [["we" or "I"]] will notify you either through the email address you have provided [["us" or "me"]], or by placing a prominent notice on [["our" or "my"]] Star Stories App.
-
-
-## Contact Information
-
-For any questions or concerns regarding the privacy policy, please send an email to mohamedabdullah9092@gmail.com
-.
+ الاتصال بنا
+لأي استفسارات حول سياسة الخصوصية هذه، يُرجى التواصل عبر البريد الإلكتروني: [hkyatnjum@gmail.com).
+سياسة الخصوصية هذه مُحدثة لتعكس التزامنا الراسخ بحماية خصوصيتك وتوفير تجربة مستخدم آمنة وممتعة. نقدر ثقتكم فينا ونعمل دائمًا لتقديم الأفضل.
